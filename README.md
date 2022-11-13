@@ -1,4 +1,4 @@
-[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)]()
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D1BAQHK_XcVi1f4MQ/company-background_10000/0/1607639630421?e=1668754800&v=beta&t=GvcUKxgTOXElBKvY7CXww5CQesobi9wK7yPDzfybmAg)]()
 
 <h1 align="center">Hi 👋, I'm Devanshu Sharma</h1>
 <h3 align="center">A passionate Mern stack developer.</h3>
