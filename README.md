@@ -1,4 +1,4 @@
-[![MasterHead](https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png)]
+![MasterHead](https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png)
 
 <h1 align="center">Hi 👋, I'm Devanshu Sharma</h1>
 <h3 align="center">A passionate Mern stack developer.</h3>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://devanshu171.github.io/devDevanshu/](https://devanshu171.github.io/devDevanshu/)
+- 👨‍💻 All of my projects are available at [https://devanshu.vercel.app/](https://devanshu.vercel.app/)
 
 - 💬 Ask me about **Reactjs,Nodejs, Nextjs**
 
