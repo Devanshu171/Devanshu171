@@ -1,4 +1,4 @@
-<img width="80%" height="150"  src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png"/>
+
 
 <h1 align="center">Hi 👋, I'm Devanshu Sharma</h1>
 <h3 align="center">A passionate Mern stack developer.</h3>
