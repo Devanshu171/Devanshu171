@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Social club](https://github.com/Devanshu171/SocialClub)
+- 🔭 I’m currently learning Apache Airflow
 
 <!-- - 🌱 I’m currently learning **React Native** -->
 
